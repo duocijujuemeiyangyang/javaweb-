@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9bcbd01-2b4a-43d0-a491-1cacd8244ae1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/.idea/day01_基础加强.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/AnnoDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/AnnoDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/MyAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/MyAnno2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/MyAnno3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/MyAnno4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Pro2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/RefkectTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/demo/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/demo/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/annotation/demo/TestCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/junit/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/junit/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/reflect/ReflectDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/reflect/ReflectDemo1Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/reflect/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/reflect/ReflectDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/reflect/ReflectDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/reflect/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/cn/itcast/test/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_基础加强/src/pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_web.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2pCAAxoN1KyGIjhKtzfSAOppT3K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.reflect" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReflectDemo1Copy">
+    <configuration name="ReflectDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.reflect.ReflectDemo1" />
+      <module name="java_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo1Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.reflect.ReflectDemo1Copy" />
+      <module name="java_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectDemo1Copy" />
+        <item itemvalue="Application.ReflectDemo1" />
+        <item itemvalue="JUnit.CalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9bcbd01-2b4a-43d0-a491-1cacd8244ae1" name="Changes" comment="" />
+      <created>1732259545040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732259545040</updated>
+      <workItem from="1732259546220" duration="602000" />
+      <workItem from="1732330180889" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
