@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9bcbd01-2b4a-43d0-a491-1cacd8244ae1" name="Changes" comment="jdbc">
-      <change afterPath="$PROJECT_DIR$/day06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/src/hello world.html" afterDir="false" />
+    <list default="true" id="e9bcbd01-2b4a-43d0-a491-1cacd8244ae1" name="Changes" comment="前端">
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/loading-upload.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/locked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/login-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/qr_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07_bootstrap/img/user.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,7 +57,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/admin/IdeaProjects/java_web/day05_dataSource_jdbcTemplate/libs",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/java_web/day07_bootstrap",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +72,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\java_web\day07_bootstrap" />
       <recent name="C:\Users\admin\IdeaProjects\java_web\day05_dataSource_jdbcTemplate\libs" />
       <recent name="C:\Users\admin\IdeaProjects\java_web\day05_dataSource_jdbcTemplate\src" />
       <recent name="C:\Users\admin\IdeaProjects\java_web\day04_jdbc\resources" />
@@ -176,7 +187,7 @@
       <workItem from="1732790630224" duration="2776000" />
       <workItem from="1732841554118" duration="51000" />
       <workItem from="1732957227958" duration="7068000" />
-      <workItem from="1733017777383" duration="7607000" />
+      <workItem from="1733017777383" duration="10406000" />
     </task>
     <task id="LOCAL-00001" summary="反射">
       <created>1732339248318</created>
@@ -192,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733029868297</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="前端">
+      <created>1733036114856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733036114856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +242,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="反射" />
     <MESSAGE value="jdbc" />
-    <option name="LAST_COMMIT_MESSAGE" value="jdbc" />
+    <MESSAGE value="前端" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端" />
   </component>
 </project>
