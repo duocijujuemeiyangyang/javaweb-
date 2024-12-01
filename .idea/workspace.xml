@@ -4,37 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9bcbd01-2b4a-43d0-a491-1cacd8244ae1" name="Changes" comment="反射">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/day04_jdbc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/resources/pro.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/src/com/itcast/jdbctest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/src/com/itcast/jdbctest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/src/com/itcast/jdbctest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/src/com/itcast/jdbctest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04_jdbc/src/entry/user.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/day05_dataSource_jdbcTemplate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/c3p0-0.9.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/druid-1.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/junit-4.13.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/mchange-commons-java-0.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/mysql-connector-j-8.0.33.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/spring-beans-5.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/spring-core-5.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/spring-jdbc-5.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/libs/spring-tx-5.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/cn/itcast/datasource/c3p0/c3p01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/cn/itcast/datasource/druid/druid01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/cn/itcast/domain/SysUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/cn/itcast/jdbctemplate/JdbcTemplateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/cn/itcast/jdbctemplate/JdbcTemplateDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/cn/itcast/utils/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05_dataSource_jdbcTemplate/src/druid.properties" afterDir="false" />
+    <list default="true" id="e9bcbd01-2b4a-43d0-a491-1cacd8244ae1" name="Changes" comment="jdbc">
+      <change afterPath="$PROJECT_DIR$/day06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day06/src/hello world.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -62,30 +35,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/java_web/day05_dataSource_jdbcTemplate/libs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/java_web/day05_dataSource_jdbcTemplate/libs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\java_web\day05_dataSource_jdbcTemplate\libs" />
@@ -202,7 +176,7 @@
       <workItem from="1732790630224" duration="2776000" />
       <workItem from="1732841554118" duration="51000" />
       <workItem from="1732957227958" duration="7068000" />
-      <workItem from="1733017777383" duration="6495000" />
+      <workItem from="1733017777383" duration="7607000" />
     </task>
     <task id="LOCAL-00001" summary="反射">
       <created>1732339248318</created>
@@ -211,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1732339248318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jdbc">
+      <created>1733029868297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733029868297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +223,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="反射" />
-    <option name="LAST_COMMIT_MESSAGE" value="反射" />
+    <MESSAGE value="jdbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc" />
   </component>
 </project>
